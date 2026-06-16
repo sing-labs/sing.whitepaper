@@ -9,36 +9,36 @@
     </linearGradient>
   </defs>
   <rect x="20" y="20" width="860" height="480" rx="28" fill="#0b1120"/>
-  <text x="450" y="70" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" fill="#ffffff" font-weight="700">SING Multi-Ecosystem Support Architecture</text>
+  <text x="450" y="70" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" fill="#ffffff" font-weight="700">SING 多生态应用支持架构</text>
   <g filter="url(#shadow)">
     <rect x="70" y="120" width="240" height="140" rx="20" fill="#111827"/>
     <text x="190" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#ffffff" font-weight="700">CisuMusic</text>
-    <text x="190" y="175" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Web3 Artist Incubation</text>
+    <text x="190" y="175" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Web3 艺人孵化</text>
     <text x="190" y="195" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Incubation Platform</text>
   </g>
   <g filter="url(#shadow)">
     <rect x="590" y="120" width="240" height="140" rx="20" fill="#111827"/>
     <text x="710" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#ffffff" font-weight="700">Gnos AI</text>
-    <text x="710" y="175" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Web3 AI Music Creation</text>
+    <text x="710" y="175" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Web3 AI 音乐创作</text>
     <text x="710" y="195" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">+ Social Platform</text>
   </g>
   <g filter="url(#shadow)">
     <rect x="320" y="180" width="260" height="180" rx="24" fill="#111827"/>
-    <text x="450" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#ffffff" font-weight="700">SING Ecosystem Layer</text>
-    <text x="450" y="245" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Governance / Payments / Incentives / Token Interoperability</text>
-    <text x="450" y="265" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Governance / Payments / Incentives / Cross-Platform</text>
+    <text x="450" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#ffffff" font-weight="700">SING 生态层</text>
+    <text x="450" y="245" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">治理 / 支付 / 激励 / 代币互操作</text>
+    <text x="450" y="265" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">治理 / 支付 / 激励 / 跨平台</text>
   </g>
   <g filter="url(#shadow)">
     <rect x="70" y="320" width="240" height="140" rx="20" fill="#111827"/>
-    <text x="190" y="360" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#ffffff" font-weight="700">Artist DAO</text>
-    <text x="190" y="385" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Community Governance</text>
-    <text x="190" y="405" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Fan-Owned Decisions</text>
+    <text x="190" y="360" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#ffffff" font-weight="700">艺人 DAO</text>
+    <text x="190" y="385" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">社区治理</text>
+    <text x="190" y="405" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">粉丝参与决策</text>
   </g>
   <g filter="url(#shadow)">
     <rect x="590" y="320" width="240" height="140" rx="20" fill="#111827"/>
-    <text x="710" y="360" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#ffffff" font-weight="700">Music NFT Market</text>
-    <text x="710" y="385" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">NFT &amp; Revenue Sharing</text>
-    <text x="710" y="405" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">Digital Asset Economy</text>
+    <text x="710" y="360" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#ffffff" font-weight="700">音乐 NFT 市场</text>
+    <text x="710" y="385" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">NFT 与收益分成</text>
+    <text x="710" y="405" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#94a3b8">数字资产生态</text>
   </g>
   <path d="M310 150 C 330 150 330 175 320 180" stroke="#22d8a0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" marker-end="url(#arrow)"/>
   <path d="M560 150 C 560 160 575 175 580 180" stroke="#4d83ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" marker-end="url(#arrow)"/>
@@ -51,5 +51,5 @@
   </defs>
   <path d="M450,255 L463.4,291.2 L502.3,327.0 L463.4,328.8 L450,365 L436.6,328.8 L397.7,327.0 L431.2,296.6 L404.5,276.4 L450,333 Z" fill="url(#grad1)" opacity="0.12"/>
   <circle cx="450" cy="310" r="30" fill="#ffffff"/>
-  <text x="450" y="316" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#0f172a" font-weight="700">Open Interoperability</text>
+  <text x="450" y="316" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#0f172a" font-weight="700">开放互通</text>
 </svg>

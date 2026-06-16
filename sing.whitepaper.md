@@ -114,10 +114,7 @@ SING Global is built on the FullOn blockchain, designed specifically for Web3 an
 
 ## 6.3 Top Industry Leadership Team
 
-SING Global brings together leaders from the Web2 music industry and blockchain experts, ensuring dual strengths in industry experience and technical expertise:
-- Xiaofeng Xu: Former President of Warner Music China, a leading figure in Chinese music with experience managing over 30 superstar artists and 50M+ fans.
-- Jun Kang: Former CEO of SM Entertainment, a pioneer in K-pop, successfully creating over 10 K-pop superstars with 50M+ fans.
-- Thor: Founder of FullOn blockchain, former Senior Vice President at Morgan Stanley, and a blockchain architect with 8 years of public chain development experience.
+SING Global brings together leaders from the Web2 music industry and blockchain experts, ensuring dual strengths in industry experience and technical expertise.
 
 # 7. Partnerships and Ecosystem Building
 

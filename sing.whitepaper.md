@@ -14,7 +14,11 @@ The global music industry is valued at over $200 billion, with digital music dom
 
 # 3. Project Overview
 
-SING is the native utility token of the SING Global decentralized music ecosystem. It serves as the core value carrier for payments, incentives, and governance. Through the SING token, we aim to establish a new music economy model where all participants can truly own digital assets and receive fair returns for their contributions. SING Global operates independently of any single platform, collaborating broadly with the global music ecosystem and supported by the high-performance FullOn Layer-1 blockchain. FullOn offers 100,000 TPS (transactions per second), low costs ($0.0002 GAS fees), and multi-chain compatibility (interoperable with Ethereum and Solana), providing robust technical support for SING Global.
+SING is the native utility token of the SING Global decentralized music ecosystem. It serves as the core value carrier for payments, incentives, and governance. Through the SING token, we aim to establish a new music economy model where all participants can truly own digital assets and receive fair returns for their contributions. SING Global operates independently of any single platform, collaborating broadly with the global music ecosystem.
+
+SING is natively designed to support multi-ecosystem application integration, compatible with platforms such as CisuMusic—a Web3 emerging artist incubation platform—and Gnos AI—a Web3 AI music creation and social platform. This means SING can act as a cross-platform ecosystem bridge, supporting native applications as well as external Web3 music services, and demonstrating true multi-platform interoperability.
+
+SING is supported by the high-performance FullOn Layer-1 blockchain, which offers 100,000 TPS, low costs ($0.0002 GAS fees), and multi-chain compatibility (interoperable with Ethereum and Solana), providing robust technical support for SING Global.
 
 # 4. Token Economic Model
 
@@ -118,7 +122,23 @@ SING Global brings together leaders from the Web2 music industry and blockchain 
 
 # 7. Partnerships and Ecosystem Building
 
-SING Global plans to establish deep partnerships with music institutions, companies, copyright holders, independent artists, and fan communities worldwide that are committed to exploring Web3 technology. Specific collaboration areas include:
+SING Global plans to establish deep partnerships with music institutions, companies, copyright holders, independent artists, and fan communities worldwide that are committed to exploring Web3 technology. SING is designed to support multi-ecosystem applications, enabling integration with a wide range of Web3 music services and apps, including representative platforms such as CisuMusic and Gnos AI for artist incubation, AI creation, and social engagement. We will prioritize integration with these multi-ecosystem applications to showcase SING’s interoperability across open Web3 music ecosystems.
+
+## 7.1 Multi-Ecosystem Application Support
+
+<p align="center">
+<img src="./resources/multi-ecosystem-support.svg" width="760" />
+<h4 align="center" style="color:grey;font-weight: normal;">Figure 1: SING multi-ecosystem support architecture</h4>
+</p>
+
+SING supports multi-ecosystem application integration, allowing different music products, services, and use cases to share the same value structure and token mechanics. This design enables:
+- `Cross-platform content flow`: Users can discover and incubate artists on CisuMusic, then extend creative collaborations and social interactions on Gnos AI using SING.
+- `Shared ecosystem resources`: Multi-ecosystem applications can leverage SING for governance, incentives, payments, and staking, reducing development overhead and improving retention.
+- `Interoperability showcase`: Using CisuMusic and Gnos AI as examples, SING demonstrates how artist incubation, AI creation, and fan social engagement can be connected through a single music ecosystem layer.
+
+This multi-ecosystem support enables SING to serve as a true Web3 music infrastructure rather than a token limited to one platform.
+
+Specific collaboration areas include:
 - `Artist Collaboration`: Providing tools and technical support to help artists issue music NFTs, manage fan communities, and directly monetize their work.
 - `Company Collaboration`: Partnering with music platforms and companies to explore Web3 solutions, bringing their IP into the blockchain world and enabling RWA for future revenue streams.
 - `Developer Community`: Establishing a foundation to support third-party developers in building decentralized applications (DApps) based on the SING protocol, enriching the ecosystem.
